@@ -1,0 +1,133 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Shop Products",
+    "buildBox": "Custom Packages",
+    "dashboard": "My Account",
+    "referrals": "Refer & Earn",
+    "about": "Our Story",
+    "faq": "Help & FAQ"
+  },
+  "hero": {
+    "title": "Authentic Mexican Flavors, Delivered Worldwide",
+    "subtitle": "Experience the rich tradition of Mexican artisanal foods. From handcrafted salsas to traditional moles, we bring Mexico's culinary heritage to your table.",
+    "cta": "Shop Now",
+    "learnMore": "Discover Our Story"
+  },
+  "products": {
+    "title": "Artisanal Mexican Foods",
+    "subtitle": "Handcrafted with traditional recipes passed down through generations. Each product tells the story of Mexican culinary heritage.",
+    "addToBox": "Add to Package",
+    "viewDetails": "View Details",
+    "filterAll": "All Products",
+    "filterFood": "Salsas & Sauces",
+    "filterLitter": "Moles & Spices",
+    "features": {
+      "organic": "All Natural",
+      "sustainable": "Traditional Methods",
+      "premium": "Artisanal Quality",
+      "vetApproved": "Family Recipes"
+    }
+  },
+  "subscription": {
+    "title": "Create Your Mexican Food Experience",
+    "subtitle": "Discover authentic flavors with our curated packages of traditional Mexican artisanal products",
+    "step1": "Choose Your Flavor Profile",
+    "step2": "Select Your Products",
+    "step3": "Set Your Delivery",
+    "petTypes": {
+      "cat": "Mild & Traditional",
+      "dog": "Spicy & Bold",
+      "both": "Variety Explorer"
+    },
+    "frequency": {
+      "weekly": "Weekly Delivery",
+      "biweekly": "Every 2 Weeks", 
+      "monthly": "Monthly Delivery"
+    },
+    "benefits": {
+      "convenience": "Authentic flavors delivered to your door",
+      "savings": "Save up to 15% with package deals",
+      "flexibility": "Customize your selection anytime",
+      "quality": "Fresh, handcrafted products guaranteed"
+    }
+  },
+  "dashboard": {
+    "title": "My Mexican Food Dashboard",
+    "welcome": "¡Bienvenido! Here's your authentic Mexican food experience",
+    "nextDelivery": "Next Delivery",
+    "manageSubscription": "Manage Orders",
+    "orderHistory": "Order History",
+    "pause": "Pause Deliveries",
+    "resume": "Resume Deliveries",
+    "modify": "Modify Selection",
+    "stats": {
+      "totalSaved": "Total Saved",
+      "deliveriesReceived": "Orders Completed",
+      "favoriteProduct": "Favorite Product"
+    }
+  },
+  "referrals": {
+    "title": "Share the Flavor, Earn Rewards",
+    "subtitle": "Introduce friends to authentic Mexican cuisine and earn rewards for spreading the love of traditional flavors",
+    "yourCode": "Your Personal Referral Code",
+    "copy": "Copy Code",
+    "share": "Share with Friends",
+    "rewards": "Your Reward Balance",
+    "totalEarned": "Total Earned",
+    "howItWorks": {
+      "step1": "Share your unique code",
+      "step2": "Friends get $20 off first order",
+      "step3": "You earn $20 when they purchase",
+      "step4": "Credits never expire!"
+    }
+  },
+  "about": {
+    "title": "Our Mission: Preserving Mexican Culinary Heritage",
+    "subtitle": "Founded by Mexican food artisans, for food lovers who appreciate authentic traditional flavors",
+    "mission": "We believe authentic Mexican cuisine deserves to be shared with the world, preserving traditional recipes while bringing the true flavors of Mexico to every table.",
+    "values": {
+      "quality": "Artisanal Quality",
+      "sustainability": "Traditional Methods",
+      "convenience": "Worldwide Delivery",
+      "community": "Mexican Heritage"
+    }
+  },
+  "faq": {
+    "title": "Mexican Food Questions Answered",
+    "subtitle": "Everything you need to know about our authentic Mexican artisanal food products"
+  },
+  "testimonials": {
+    "title": "What Food Lovers Are Saying",
+    "subtitle": "Join thousands of satisfied customers who trust us for authentic Mexican flavors"
+  },
+  "footer": {
+    "company": "Company",
+    "support": "Customer Care",
+    "legal": "Legal",
+    "newsletter": "Get pet care tips & exclusive offers",
+    "emailPlaceholder": "Enter your email address",
+    "social": {
+      "facebook": "Follow us on Facebook",
+      "instagram": "See us on Instagram", 
+      "twitter": "Tweet with us"
+    }
+  },
+  "common": {
+    "loading": "Loading authentic Mexican products...",
+    "error": "¡Ay, Dios mío! Something went wrong",
+    "retry": "Try Again",
+    "save": "Save Changes",
+    "cancel": "Cancel",
+    "continue": "Continue",
+    "back": "Go Back",
+    "next": "Next Step",
+    "previous": "Previous",
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now",
+    "subscribe": "Create Package",
+    "inStock": "Available",
+    "outOfStock": "Temporarily Unavailable",
+    "freeShipping": "Free Shipping to US & Mexico"
+  }
+}

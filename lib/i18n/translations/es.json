@@ -1,0 +1,133 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "products": "Productos",
+    "buildBox": "Paquetes Personalizados",
+    "dashboard": "Mi Cuenta",
+    "referrals": "Refiere y Gana",
+    "about": "Nuestra Historia",
+    "faq": "Ayuda y FAQ"
+  },
+  "hero": {
+    "title": "Sabores Auténticos de México, Entregados al Mundo",
+    "subtitle": "Experimenta la rica tradición de los alimentos artesanales mexicanos. Desde salsas hechas a mano hasta moles tradicionales, llevamos la herencia culinaria de México a tu mesa.",
+    "cta": "Comprar Ahora",
+    "learnMore": "Descubre Nuestra Historia"
+  },
+  "products": {
+    "title": "Alimentos Artesanales Mexicanos",
+    "subtitle": "Elaborados a mano con recetas tradicionales transmitidas por generaciones. Cada producto cuenta la historia de la herencia culinaria mexicana.",
+    "addToBox": "Añadir al Paquete",
+    "viewDetails": "Ver Detalles",
+    "filterAll": "Todos los Productos",
+    "filterFood": "Salsas y Sauces",
+    "filterLitter": "Moles y Especias",
+    "features": {
+      "organic": "Completamente Natural",
+      "sustainable": "Métodos Tradicionales",
+      "premium": "Calidad Artesanal",
+      "vetApproved": "Recetas Familiares"
+    }
+  },
+  "subscription": {
+    "title": "Crea Tu Experiencia Culinaria Mexicana",
+    "subtitle": "Descubre sabores auténticos con nuestros paquetes curados de productos artesanales mexicanos tradicionales",
+    "step1": "Elige Tu Perfil de Sabor",
+    "step2": "Selecciona Tus Productos",
+    "step3": "Programa Tu Entrega",
+    "petTypes": {
+      "cat": "Suave y Tradicional",
+      "dog": "Picante y Audaz",
+      "both": "Explorador de Variedad"
+    },
+    "frequency": {
+      "weekly": "Entrega Semanal",
+      "biweekly": "Cada 2 Semanas",
+      "monthly": "Entrega Mensual"
+    },
+    "benefits": {
+      "convenience": "Sabores auténticos entregados a tu puerta",
+      "savings": "Ahorra hasta 15% con paquetes",
+      "flexibility": "Personaliza tu selección en cualquier momento",
+      "quality": "Productos frescos hechos a mano garantizados"
+    }
+  },
+  "dashboard": {
+    "title": "Mi Panel de Comida Mexicana",
+    "welcome": "¡Bienvenido de nuevo! Aquí está tu experiencia culinaria mexicana auténtica",
+    "nextDelivery": "Próxima Entrega",
+    "manageSubscription": "Gestionar Pedidos",
+    "orderHistory": "Historial de Pedidos",
+    "pause": "Pausar Entregas",
+    "resume": "Reanudar Entregas",
+    "modify": "Modificar Selección",
+    "stats": {
+      "totalSaved": "Total Ahorrado",
+      "deliveriesReceived": "Pedidos Completados",
+      "favoriteProduct": "Producto Favorito"
+    }
+  },
+  "referrals": {
+    "title": "Comparte el Sabor, Gana Recompensas",
+    "subtitle": "Presenta a tus amigos la auténtica cocina mexicana y gana recompensas por compartir el amor por los sabores tradicionales",
+    "yourCode": "Tu Código Personal de Referencia",
+    "copy": "Copiar Código",
+    "share": "Compartir con Amigos",
+    "rewards": "Tu Saldo de Recompensas",
+    "totalEarned": "Total Ganado",
+    "howItWorks": {
+      "step1": "Comparte tu código único",
+      "step2": "Los amigos obtienen $20 de descuento",
+      "step3": "Ganas $20 cuando compran",
+      "step4": "¡Los créditos nunca expiran!"
+    }
+  },
+  "about": {
+    "title": "Nuestra Misión: Preservar la Herencia Culinaria Mexicana",
+    "subtitle": "Fundado por artesanos de comida mexicana, para amantes de la comida que aprecian los sabores tradicionales auténticos",
+    "mission": "Creemos que la auténtica cocina mexicana merece ser compartida con el mundo, preservando recetas tradicionales mientras llevamos los verdaderos sabores de México a cada mesa.",
+    "values": {
+      "quality": "Calidad Artesanal",
+      "sustainability": "Métodos Tradicionales",
+      "convenience": "Entrega Mundial",
+      "community": "Herencia Mexicana"
+    }
+  },
+  "faq": {
+    "title": "Preguntas sobre Comida Mexicana Respondidas",
+    "subtitle": "Todo lo que necesitas saber sobre nuestros productos alimentarios artesanales mexicanos auténticos"
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen los Amantes de la Comida",
+    "subtitle": "Únete a miles de clientes satisfechos que confían en nosotros para sabores mexicanos auténticos"
+  },
+  "footer": {
+    "company": "Empresa",
+    "support": "Atención al Cliente",
+    "legal": "Legal",
+    "newsletter": "Recibe consejos de cuidado y ofertas exclusivas",
+    "emailPlaceholder": "Ingresa tu dirección de email",
+    "social": {
+      "facebook": "Síguenos en Facebook",
+      "instagram": "Encuéntranos en Instagram",
+      "twitter": "Twitea con nosotros"
+    }
+  },
+  "common": {
+    "loading": "Cargando productos mexicanos auténticos...",
+    "error": "¡Ay, Dios mío! Algo salió mal",
+    "retry": "Intentar de Nuevo",
+    "save": "Guardar Cambios",
+    "cancel": "Cancelar",
+    "continue": "Continuar",
+    "back": "Regresar",
+    "next": "Siguiente Paso",
+    "previous": "Anterior",
+    "addToCart": "Añadir al Carrito",
+    "buyNow": "Comprar Ahora",
+    "subscribe": "Crear Paquete",
+    "inStock": "Disponible",
+    "outOfStock": "Temporalmente No Disponible",
+    "freeShipping": "Envío Gratis a EE.UU. y México"
+  }
+}
